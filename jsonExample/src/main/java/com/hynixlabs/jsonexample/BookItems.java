@@ -1,23 +1,23 @@
-﻿package com.hynixlabs.jsonexample;
+package com.hynixlabs.jsonexample;
 
 public class BookItems {
-        /**
-         * title : 文豪ストレイドッグス DEAD <b>APPLE</b> 公式ガイドブック 煙霧錄
-         * link : http://book.naver.com/bookdb/book_detail.php?bid=13396718
-         * image : http://bookthumb.phinf.naver.net/cover/133/967/13396718.jpg?type=m1&udate=20180406
-         * author : 편집부
-         * price : 18560
-         * discount :
-         * publisher : KADOKAWA
-         * pubdate : 20180403
-         * isbn : 4041066956 9784041066959
-         * description :
-         */
+    /**
+     * title : 文豪ストレイドッグス DEAD <b>APPLE</b> 公式ガイドブック 煙霧錄
+     * link : http://book.naver.com/bookdb/book_detail.php?bid=13396718
+     * image : http://bookthumb.phinf.naver.net/cover/133/967/13396718.jpg?type=m1&udate=20180406
+     * author : 편집부
+     * price : 18560
+     * discount :
+     * publisher : KADOKAWA
+     * pubdate : 20180403
+     * isbn : 4041066956 9784041066959
+     * description :
+     */
 
-        private String title;
-        private String image;
-        private String author;
-        private String price;
+    private String title;
+    private String image;
+    private String author;
+    private String price;
 
 
     public String getTitle() {
